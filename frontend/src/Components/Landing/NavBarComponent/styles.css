@@ -1,0 +1,18 @@
+.App {
+    margin-bottom: 2rem;
+}
+
+.link {
+    text-decoration: none;
+    color: rgba(0,0,0,.7);
+}
+
+.photo {
+    height: 40px;
+    width:  40px;
+    
+}
+
+#Landing-Button {
+    border-radius: 30px;
+}

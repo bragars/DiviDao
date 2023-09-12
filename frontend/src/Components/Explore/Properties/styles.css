@@ -1,0 +1,34 @@
+.Properties {
+    margin-top: 2.5rem;
+}
+
+.Properties-header {
+    text-align: center;
+}
+
+.Properties-filters {
+    display: flex;
+    margin-top: -1.7rem;
+}
+
+.Filters {
+    align-self: center;
+}
+
+.Property {
+    width: 33%;
+}
+
+.Properties-Button {
+    margin: 2rem;
+}
+
+.Create-Property-Icon {
+    margin-left: 0.22rem;
+}
+
+@media (max-width: 810px) {
+	.Property {
+        width: 100%;
+	}
+}
